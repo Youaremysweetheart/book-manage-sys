@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6adcc8cf-9a0b-4afe-a9c6-9defa3dec39b" name="Default Changelist" comment="Default Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Youaremysweetheart&quot;
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Youaremysweetheart/book-manage-sys.git&quot;,
+    &quot;accountId&quot;: &quot;d7f61c98-f0d3-4718-a101-3d1d47555f03&quot;
+  }
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environment-tool\Maven\apache-maven-3.6.1\repository" />
+        <option name="userSettingsFile" value="D:\environment-tool\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bfNS2bBHicwdbX6ZY3CwBVle04" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unknown [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unknown [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.book-manage-sys-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.book-manage-sys-api [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.class-net [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud-note [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.health-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.health-api [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.health-api [org.mybatis.generator:mybatis-generator-maven-plugin:1.3.7:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.iot-net [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.iot-net [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.msdz-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.msdz-api [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.online-test-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.personal-health-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.questionnaire-sys-api [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seniors-nursing [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.seniors-nursing [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BookManageSysApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ClassNetApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ClassroomApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ClassroomApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudNoteStarter.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HospitalManageStarter.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.IotStarter.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.OnlineTestApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PersonalHealthApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PersonalHealthApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.QuestionnaireApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SeniorsNursingStarter.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/111work/Code/book/books-manage-sys&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\项目实战\图书管理系统\源码\后端\books-manage-sys\src\main\resources\mapper" />
+      <recent name="D:\Desktop\项目\在线考试系统\后端\online-test-api\src\main\resources\mapper" />
+      <recent name="D:\Desktop\B站课程\个人健康管理系统\personal-health-api\src\main\resources\mapper" />
+      <recent name="D:\Desktop\B站课程\1.个人健康管理系统\脚手架\personal-health-api\src\main\resources\mapper" />
+      <recent name="D:\Desktop\personal-health\personal-health\personal-health-api\src\main\resources\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\personal-health\health-api\src\main\resources" />
+      <recent name="D:\Desktop\lesson\2024-lesson-arrange\seniors-nursing-sym\seniors-nursing\src\main\resources\mapper" />
+      <recent name="D:\Desktop\project\cloud_note\cloud-note-server\src\main\resources\mapper" />
+      <recent name="D:\Desktop\project\class-active\class-net\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.kmbeast.aop" />
+      <recent name="cn.kmbeast.mapper" />
+      <recent name="cn.kmbeast.service.impl" />
+      <recent name="cn.kmbeast.service" />
+      <recent name="cn.kmbeast.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookManageSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="book-manage-sys-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.kmbeast.BookManageSysApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kmbeast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BookManageSysApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6adcc8cf-9a0b-4afe-a9c6-9defa3dec39b" name="Default Changelist" comment="" />
+      <created>1706602170479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706602170479</updated>
+      <workItem from="1706602171643" duration="354000" />
+      <workItem from="1706769435705" duration="7000" />
+      <workItem from="1706769513678" duration="4041000" />
+      <workItem from="1707753532486" duration="803000" />
+      <workItem from="1708330128384" duration="5870000" />
+      <workItem from="1708350115446" duration="5618000" />
+      <workItem from="1708584088308" duration="3232000" />
+      <workItem from="1708866733903" duration="3947000" />
+      <workItem from="1709129833510" duration="122000" />
+      <workItem from="1709218025058" duration="36000" />
+      <workItem from="1710856571842" duration="1604000" />
+      <workItem from="1710916834135" duration="15095000" />
+      <workItem from="1710948887933" duration="15000" />
+      <workItem from="1711027227163" duration="7982000" />
+      <workItem from="1711038985766" duration="284000" />
+      <workItem from="1711039416991" duration="23490000" />
+      <workItem from="1712128338242" duration="9207000" />
+      <workItem from="1712764590175" duration="9146000" />
+      <workItem from="1712837847288" duration="17000" />
+      <workItem from="1712838637515" duration="183000" />
+      <workItem from="1712839601705" duration="11000" />
+      <workItem from="1713624271347" duration="19254000" />
+      <workItem from="1713697546322" duration="7121000" />
+      <workItem from="1713833786905" duration="62812000" />
+      <workItem from="1714399487383" duration="9207000" />
+      <workItem from="1714411266655" duration="27000" />
+      <workItem from="1714479797463" duration="1259000" />
+      <workItem from="1714548871660" duration="10827000" />
+      <workItem from="1714565829576" duration="24977000" />
+      <workItem from="1714832961102" duration="14556000" />
+      <workItem from="1715181303836" duration="12000" />
+      <workItem from="1715709241409" duration="653000" />
+      <workItem from="1716991774068" duration="56000" />
+      <workItem from="1716991899232" duration="6014000" />
+      <workItem from="1716999662377" duration="3543000" />
+      <workItem from="1717053588150" duration="518000" />
+      <workItem from="1717054210089" duration="13859000" />
+      <workItem from="1717154090879" duration="22406000" />
+      <workItem from="1717740722904" duration="1749000" />
+      <workItem from="1717831481095" duration="34304000" />
+      <workItem from="1718171048644" duration="10007000" />
+      <workItem from="1718200761492" duration="46133000" />
+      <workItem from="1718697636465" duration="4547000" />
+      <workItem from="1718719476197" duration="137000" />
+      <workItem from="1719236191047" duration="3820000" />
+      <workItem from="1719294499218" duration="5360000" />
+      <workItem from="1719664411650" duration="33000" />
+      <workItem from="1719670670894" duration="9000" />
+      <workItem from="1719671623651" duration="35000" />
+      <workItem from="1719758459613" duration="361000" />
+      <workItem from="1719759999922" duration="1293000" />
+      <workItem from="1719761445902" duration="11000" />
+      <workItem from="1720291857854" duration="7386000" />
+      <workItem from="1720357997710" duration="7135000" />
+      <workItem from="1720413959769" duration="3629000" />
+      <workItem from="1720419151190" duration="619000" />
+      <workItem from="1720422315881" duration="15803000" />
+      <workItem from="1720502669088" duration="8255000" />
+      <workItem from="1720607465933" duration="1429000" />
+      <workItem from="1720609939701" duration="12000" />
+      <workItem from="1720624216878" duration="18485000" />
+      <workItem from="1720845619272" duration="42178000" />
+      <workItem from="1721052184088" duration="1856000" />
+      <workItem from="1721111135959" duration="7577000" />
+      <workItem from="1721132092103" duration="34000" />
+      <workItem from="1721722116651" duration="613000" />
+      <workItem from="1721723557600" duration="17235000" />
+      <workItem from="1722344575880" duration="3392000" />
+      <workItem from="1722397980394" duration="4447000" />
+      <workItem from="1722493911044" duration="4117000" />
+      <workItem from="1722498387414" duration="3066000" />
+      <workItem from="1722578113658" duration="5976000" />
+      <workItem from="1722649497521" duration="4739000" />
+      <workItem from="1722744138855" duration="3308000" />
+      <workItem from="1722755412152" duration="4761000" />
+      <workItem from="1723106961240" duration="12960000" />
+      <workItem from="1723533098504" duration="1801000" />
+      <workItem from="1724310090477" duration="2692000" />
+      <workItem from="1724317556478" duration="50000" />
+      <workItem from="1724317623075" duration="1019000" />
+      <workItem from="1725436718053" duration="943000" />
+      <workItem from="1725438616458" duration="36530000" />
+      <workItem from="1726026921901" duration="12492000" />
+      <workItem from="1726069589611" duration="21000" />
+      <workItem from="1726126858559" duration="3330000" />
+      <workItem from="1726213689363" duration="17000" />
+      <workItem from="1726719897174" duration="9000" />
+      <workItem from="1726739192630" duration="228000" />
+      <workItem from="1729288078879" duration="2525000" />
+      <workItem from="1733382323408" duration="6579000" />
+      <workItem from="1733434694473" duration="14926000" />
+      <workItem from="1733648155844" duration="5000" />
+      <workItem from="1733663134867" duration="35000" />
+      <workItem from="1735043933280" duration="1107000" />
+      <workItem from="1735106956046" duration="936000" />
+      <workItem from="1735109778633" duration="30000" />
+      <workItem from="1735110041048" duration="22000" />
+      <workItem from="1735478359055" duration="1180000" />
+      <workItem from="1735541829273" duration="150000" />
+      <workItem from="1740213346664" duration="9423000" />
+      <workItem from="1740475672763" duration="43000" />
+      <workItem from="1741771433013" duration="603000" />
+      <workItem from="1741783970787" duration="964000" />
+      <workItem from="1741787611692" duration="78000" />
+      <workItem from="1742895086556" duration="2483000" />
+      <workItem from="1748097963999" duration="947000" />
+      <workItem from="1748099208751" duration="73000" />
+      <workItem from="1748099305188" duration="144000" />
+      <workItem from="1748099487817" duration="22000" />
+      <workItem from="1748101484816" duration="947000" />
+      <workItem from="1748134505746" duration="773000" />
+      <workItem from="1748135690755" duration="1380000" />
+      <workItem from="1748218132175" duration="295000" />
+      <workItem from="1748219591211" duration="537000" />
+      <workItem from="1748220155931" duration="683000" />
+      <workItem from="1748224540840" duration="253000" />
+      <workItem from="1748225017002" duration="611000" />
+      <workItem from="1748859544743" duration="297000" />
+      <workItem from="1748950842989" duration="769000" />
+      <workItem from="1749018555441" duration="8000" />
+      <workItem from="1749019276597" duration="144000" />
+      <workItem from="1749223219268" duration="384000" />
+      <workItem from="1766641792578" duration="742000" />
+      <workItem from="1766642550374" duration="33000" />
+      <workItem from="1766642877129" duration="527000" />
+      <workItem from="1766647475369" duration="153000" />
+      <workItem from="1766647639520" duration="218000" />
+    </task>
+    <task id="LOCAL-00001" summary="图书馆完整项目">
+      <option name="closed" value="true" />
+      <created>1766641845957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766641845957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="图书馆后端完整项目">
+      <option name="closed" value="true" />
+      <created>1766643136036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766643136036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="图书馆完整项目" />
+    <MESSAGE value="图书馆后端完整项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="图书馆后端完整项目" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
